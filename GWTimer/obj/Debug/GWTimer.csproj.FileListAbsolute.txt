@@ -1,0 +1,7 @@
+E:\Csharp\GWTimer\GWTimer\obj\Debug\GWTimer.csproj.AssemblyReference.cache
+E:\Csharp\GWTimer\GWTimer\obj\Debug\GWTimer.csproj.CoreCompileInputs.cache
+E:\Csharp\GWTimer\GWTimer\bin\Debug\GWTimer.dll.config
+E:\Csharp\GWTimer\GWTimer\bin\Debug\GWTimer.dll
+E:\Csharp\GWTimer\GWTimer\bin\Debug\GWTimer.pdb
+E:\Csharp\GWTimer\GWTimer\obj\Debug\GWTimer.dll
+E:\Csharp\GWTimer\GWTimer\obj\Debug\GWTimer.pdb
